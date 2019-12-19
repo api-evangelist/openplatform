@@ -1,0 +1,44 @@
+{
+    "name": "OPENPlatform",
+    "description": "<p>We believe in furthering the evolution of decentralized technologies to their application in our everyday experience.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28118-www-openfuture-io.jpg",
+    "tags": [
+        "blockchain",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openplatform\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OPENPlatform",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28118-www-openfuture-io.jpg",
+            "humanURL": "https:\/\/www.openfuture.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openplatform-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.openfuture.io\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OpenPlatformICO"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.openfuture.io"
+        }
+    ]
+}
